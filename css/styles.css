@@ -39,6 +39,7 @@ p {
   color: white;
   font-size: 18px;
   line-height: 24px; 
+  text-align: justify;
 }
 
 audio, canvas, img, video {
