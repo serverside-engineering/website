@@ -42,6 +42,23 @@ p {
   text-align: justify;
 }
 
+.serverside-text, .serverside:focus {
+  background: transparent;
+  border: solid;
+  border-width: 1px;
+  border-color: #27AE60;
+  color: #fff !important;
+  font-size: 1.5rem !important;
+}
+
+.serverside-button {
+  font-size: 1.5rem;
+  color: #fff;
+  color: #27AE60;
+  background: #05180d;
+  border: none;
+}
+
 audio, canvas, img, video {
   display: block;
   vertical-align: middle; 
